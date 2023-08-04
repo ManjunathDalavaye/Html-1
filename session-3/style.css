@@ -1,0 +1,24 @@
+<style>
+p {
+  background-color: skyblue;
+}
+/* css class selecter defined like below (use .) */
+.de {
+  background-color: orange;
+}
+/* if we define the id then start with the # */
+#so {
+  background-color: mediumpurple;
+}
+.act {
+  color: rgb(78, 25, 25);
+}
+/* a:hover is used for the color or background-color the link of the  */
+a:hover {
+  color: red;
+}
+/* hover or below will use to color */
+/* a:active{ 
+  background-color:yellow;
+} */
+</style>
