@@ -1,0 +1,17 @@
+nav {
+  display: flex;
+  background: burlywood;
+  /* space bw is used to gap bw the recent post and the list */
+  justify-content: space-between;
+  align-items: center;
+}
+/* ul dispaly flex is used to show the list in order(stright line) */
+ul {
+  display: flex;
+  width: 8rem;
+  justify-content: space-between;
+}
+ul li {
+  list-style: none;
+  /* ///is used to remove the bullet points */
+}
