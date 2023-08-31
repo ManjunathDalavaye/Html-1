@@ -6,7 +6,7 @@ Feel free to explore these folders to see the code and materials related to each
 
 ## Contact
 
-If you're also learning web development or if you have any feedback, suggestions, or questions, please don't hesitate to get in touch. You can reach me via email at [your.email@example.com](mailto:your.email@example.com).
+If you're also learning web development or if you have any feedback, suggestions, or questions, please don't hesitate to get in touch. You can reach me via email at [manjunathadvg2002@gmail.com]).
 
 Happy coding!
 
